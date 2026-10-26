@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **mechanical engineering**
 
 ## Overview/Introduction/Context
 * Text
@@ -8,7 +8,7 @@ Topic: **X**
 ## Part A: existing technology
 
 ##### Software
-* Tech
+* Tech sketchup:
   * Detail
   * [image text](image URL)
 
