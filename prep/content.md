@@ -8,8 +8,8 @@ Topic: **mechanical engineering**
 ## Part A: existing technology
 
 ##### Software
-* Tech sketchup:
-  * Detail
+* Tech: SketchUp
+  * uses 3d and 2d modeling to help engineers to plan a building and lets them view what they made and it is easy for everyone to understand.
   * [image text](image URL)
 
 ##### Hardware
