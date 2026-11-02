@@ -18,8 +18,14 @@ Topic: **mechanical engineering**
   * fiber laser machines 
     * A fiber laser machine is an engraver that uses lasers to engrave different metal surfaces such as aluminum, zinc, and steel.You can engrave them with logos,serial numbers,QR codes,and barcodes.
     * robots mostly help with this process.
-  * calipars
-    * Calipars are 
+  * calipers
+    * Calipers are used to measure a products dimensions,including internal parts and components, with a high degree of accuracy.
+    * Far more accurate than a ruler, calipers provide all the dimensions for a part or product so that it can be recreated with precision.
+  * vibration isolator
+    * Vibration is often a problem with equipment because it can damage components and impair performance.
+    * Engineers rely on vibration isolators to detect and measure vibrations in machinery
+    * Springs are typically used as the isolators to minimize force and may include fluid damping, steel coil, pneumatic, and rubber components.
+  * 
 * [image text](image URL)
 
 ## Part B: possible future technology
