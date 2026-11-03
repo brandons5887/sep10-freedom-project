@@ -2,8 +2,11 @@
 Topic: **mechanical engineering**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* The Evolution of Engineering Design: Mechanical engineering is experiencing a rapid shift from traditional 2D drafting to fully integrated 3D environments, transforming how complex physical systems are conceived, analyzed, and manufactured.
+
+* Bridging the Concept Gap: The modern industry demands rapid prototyping and spatial awareness early in the design cycle to identify interference, verify mechanics, and optimize material choices before physical testing begins.
+  
+* The Role of Conceptual Modeling:Utilizing lightweight, accessible 3D modeling tools provides engineers and stakeholders with an immediate visual baseline, streamlining cross-department collaboration and shortening product development pipelines.
 
 ## Part A: existing technology
 
@@ -11,7 +14,7 @@ Topic: **mechanical engineering**
 * Tech: SketchUp
   * uses 3d and 2d modeling to help engineers to plan a building and lets them view what they made and it is easy for everyone to understand.
 * it can be useful for people who are trying to make a model of a future project that they will be working on and how it will look like.
-  * [image text](image URL)
+*
 
 ##### Hardware
 * Tech
@@ -26,7 +29,7 @@ Topic: **mechanical engineering**
     * Engineers rely on vibration isolators to detect and measure vibrations in machinery
     * Springs are typically used as the isolators to minimize force and may include fluid damping, steel coil, pneumatic, and rubber components.
   * 
-* [image text](image URL)
+
 
 ## Part B: possible future technology
 * Idea
