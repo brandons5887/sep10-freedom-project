@@ -25,11 +25,13 @@ Topic: **mechanical engineering**
   * calipers
     * Calipers are used to measure a products dimensions,including internal parts and components, with a high degree of accuracy.
     * Far more accurate than a ruler, calipers provide all the dimensions for a part or product so that it can be recreated with precision.
+    * Cost: 
   * vibration isolator
     * Vibration is often a problem with equipment because it can damage components and impair performance.
     * Engineers rely on vibration isolators to detect and measure vibrations in machinery
     * Springs are typically used as the isolators to minimize force and may include fluid damping, steel coil, pneumatic, and rubber components.
     * This helps prevent unwanted damage to the equipment when working.
+    * Cost:
 
 
 ## Part B: possible future technology
