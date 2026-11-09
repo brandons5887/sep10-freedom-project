@@ -21,7 +21,7 @@ Topic: **mechanical engineering**
   * fiber laser machines 
     * A fiber laser machine is an engraver that uses lasers to engrave different metal surfaces such as aluminum, zinc, and steel.You can engrave them with logos,serial numbers,QR codes,and barcodes.
     * robots mostly help with this process.
-    * cost: 100,000 to 200,000 (for industrial fiber laser machines)
+    * cost: 100,000$ to 200,000$ (for industrial fiber laser machines)
   * calipers
     * Calipers are used to measure a products dimensions,including internal parts and components, with a high degree of accuracy.
     * Far more accurate than a ruler, calipers provide all the dimensions for a part or product so that it can be recreated with precision.
